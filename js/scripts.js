@@ -42,12 +42,17 @@
 })(jQuery); // End of use strict
 
 
-//dark and light mode option
-const chk = document.getElementById('chk');
-const clr = document.getElementById('p1')
 
 
-//---------@TODO create a color change listener-----------//
-chk.addEventListener('change', () => {
-    document.body.classList.toggle('dark');
-});
+//----------------------------------------//
+// dark mode option will add in the future//
+//----------------------------------------//
+// //dark and light mode option
+// const chk = document.getElementById('chk');
+// const clr = document.getElementById('p1')
+
+
+// //---------@TODO create a color change listener-----------//
+// chk.addEventListener('change', () => {
+//     document.body.classList.toggle('dark');
+// });

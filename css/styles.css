@@ -32,7 +32,7 @@
     --secondary: #6c757d;
     --success: #28a745;
     --info: #17a2b8;
-    --warning: #ffc107;
+    --warning: #020202;
     --danger: #dc3545;
     --light: #f8f9fa;
     --dark: #343a40;
@@ -98,12 +98,11 @@ body {
 #fullxtest,
 #ccna,
 #ctf {
-    color: lightblue;
+    color: #1D58CE
 }
 
 
 /*dark mode option*/
-
 * {
     box-sizing: border-box;
 }
@@ -10035,7 +10034,7 @@ a.text-info:focus {
 }
 
 .text-warning {
-    color: #ffc107 !important;
+    color: #67726f !important;
 }
 
 a.text-warning:hover,
